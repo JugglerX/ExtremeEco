@@ -1,0 +1,16 @@
+name = "ExtremeEco"
+uid = "95a9fb18-6081-11ec-8607-0242ac130002"
+version = 1
+copyright = "no"
+description = "Better Eco"
+author = "Majihnda & JugglerX"
+icon = "/mods/Lebo/icon.png"
+selectable = true
+enabled = true
+exclusive = false
+ui_only = false
+requires = {}
+requiresNames = {}
+conflicts = {}
+before = {}
+after = {}
